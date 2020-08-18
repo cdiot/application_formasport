@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">catalogueFormaSport</string>
+    <string name="lbl_welcome">Bienvenue sur le catalogue de FormaSport</string>
+    <string name="lbl_login">Connectez-vous pour continuer.</string>
+    <string name="edt_user">Prenom</string>
+    <string name="edt_password">Mots de passe</string>
+    <string name="btn_login">Me Connecter</string>
+    <string name="btn_logout">Me Deconnecter</string>
+    <string name="lbl_catalogue">Catalogue Des Formations</string>
+    <string name="tv_id">ID:</string>
+    <string name="tv_title">Titre:</string>
+    <string name="tv_duration">Duree:</string>
+    <string name="tv_description">Description:</string>
+</resources>
